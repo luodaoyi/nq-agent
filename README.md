@@ -72,6 +72,13 @@ Monitored Data
 * Ping USA
 * Ping Asia
 
+Install Command
+---------------
+
+```shell
+wget -N --no-check-certificate https://raw.github.com/luodaoyi/nq-agent/master/nq-install.sh && bash nq-install.sh XXXX
+```
+
 Legal
 -----
 
